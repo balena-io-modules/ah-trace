@@ -1,0 +1,20 @@
+{
+  "name": "ah-trace",
+  "version": "1.0.0",
+  "description": "This repo uses the [async_hooks](https://www.apiref.com/nodejs/async_hooks.html) api to create utility functions for tracking asynchronouse resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balena-io-modules/ah-instrumentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balena-io-modules/ah-instrumentation/issues"
+  },
+  "homepage": "https://github.com/balena-io-modules/ah-instrumentation#readme"
+}
